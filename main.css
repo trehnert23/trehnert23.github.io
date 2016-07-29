@@ -23,7 +23,7 @@
 
   .home {
     height: 100vh;
-    background-image: url('/images/homeimage.jpg');
+    background-image: url('homeimage.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -280,7 +280,7 @@
     .home {
       width: 100%;
       margin-top: -12%;
-      background-image: url('/images/homeimage.jpg');
+      background-image: url('homeimage.jpg');
       background-size: 100%;
       background-repeat: no-repeat;
       background-position: center;
